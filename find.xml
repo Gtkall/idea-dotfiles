@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../initial/src/main/java/com/example/restservice/Greeting.java'" />
+    <option name="defaultScopeName" value="File '.../initial/src/main/java/com/example/restservice/Greeting.java'" />
+    <option name="SEARCH_SCOPE" value="File '.../initial/src/main/java/com/example/restservice/Greeting.java'" />
+  </component>
+</application>
